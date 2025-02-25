@@ -8,7 +8,10 @@ Hyperspectral Image (HSI) Recognition
 </details>
 
 # Evaluation Results
-![Alt text](https://github.com/user-attachments/assets/fe769c6f-f430-43ec-bc73-2e3704902ede)
-![Alt text](https://github.com/user-attachments/assets/30d0efd8-7fb3-4e10-bc47-9d7c38127319)
-![Alt text](https://github.com/user-attachments/assets/63b756d4-1f6a-4ef3-b0b0-93b028f90b83)
+
+<p align="center">
+  <img src="[your_relative_path_here](https://github.com/user-attachments/assets/fe769c6f-f430-43ec-bc73-2e3704902ede)" width="350" title="Performance results">
+  <img src="[your_relative_path_here_number_2_large_name](https://github.com/user-attachments/assets/30d0efd8-7fb3-4e10-bc47-9d7c38127319)" width="350">
+</p>
+
 
